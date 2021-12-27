@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MacAkhil
+- 👋 Hi, I’m Akhil
 - 👀 I’m interested in Game Devlopment, Playing games, producing music
 - 🌱 I’m currently learning Unreal Engine 4
 - 💞️ I’m looking to collaborate on projects on unreal engine
